@@ -1,0 +1,6 @@
+# Virtualenvs
+*/venv
+
+# IDE/Cache
+*/__pycache__
+*/.vscode
