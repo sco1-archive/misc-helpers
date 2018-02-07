@@ -4,3 +4,6 @@
 # IDE/Cache
 */__pycache__
 */.vscode
+
+# Builds
+*/*.egg-info
