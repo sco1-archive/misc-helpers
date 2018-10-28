@@ -5,11 +5,8 @@ import time
 import typing
 from pathlib import Path
 
-# Force UTC Timestamps
-# From the logging cookbook: https://docs.python.org/3/howto/logging-cookbook.html
-class UTCFormatter(logging.Formatter):
-    converter = time.gmtime
 
+logging.Formatter.converter = time.gmtime  # Force UTC
 
 logformat = "%(asctime)s %(levelname)s:%(module)s:%(message)s"
 dateformat = "%Y-%m-%d %H:%M:%S"
@@ -39,7 +36,7 @@ def move_files(paths: typing.List = None):
 def cleanpath(filepath: Path = None):
     to_clean = find_files_to_clean(filepath)
     logging.info(f"Found {len(to_clean)} files to clean in: {filepath}")
-    
+
     if len(to_clean) > 0:
         move_files(to_clean)
 
