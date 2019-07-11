@@ -1,0 +1,674 @@
+{
+    "KLAS": {
+        "long_name": "McCarran Intl",
+        "class": "B",
+        "coverage_area": "Base Coverage",
+        "latitude": "36.080361",
+        "longitude": "-115.152333",
+        "has_d_atis": true
+    },
+    "KLAX": {
+        "long_name": "Los Angeles Intl",
+        "class": "B",
+        "coverage_area": "Base Coverage",
+        "latitude": "33.942536",
+        "longitude": "-118.408075",
+        "has_d_atis": true
+    },
+    "KLSV": {
+        "long_name": "Nellis AFB",
+        "class": "B",
+        "coverage_area": "Base Coverage",
+        "latitude": "36.236167",
+        "longitude": "-115.034167",
+        "has_d_atis": false
+    },
+    "KSAN": {
+        "long_name": "San Diego Intl-Lindbergh",
+        "class": "B",
+        "coverage_area": "Base Coverage",
+        "latitude": "32.733556",
+        "longitude": "-117.189656",
+        "has_d_atis": true
+    },
+    "KDEN": {
+        "long_name": "Denver Intl",
+        "class": "B",
+        "coverage_area": "Western US Expansion",
+        "latitude": "39.858408",
+        "longitude": "-104.667003",
+        "has_d_atis": true
+    },
+    "KPHX": {
+        "long_name": "Phoenix Sky Harbor Intl",
+        "class": "B",
+        "coverage_area": "Western US Expansion",
+        "latitude": "33.434808",
+        "longitude": "-112.009711",
+        "has_d_atis": true
+    },
+    "KSEA": {
+        "long_name": "Seattle-Tacoma Intl",
+        "class": "B",
+        "coverage_area": "Western US Expansion",
+        "latitude": "47.448785",
+        "longitude": "-122.309311",
+        "has_d_atis": true
+    },
+    "KSFO": {
+        "long_name": "San Francisco Intl",
+        "class": "B",
+        "coverage_area": "Western US Expansion",
+        "latitude": "37.618972",
+        "longitude": "-122.374889",
+        "has_d_atis": true
+    },
+    "KSLC": {
+        "long_name": "Salt Lake City Intl",
+        "class": "B",
+        "coverage_area": "Western US Expansion",
+        "latitude": "40.788389",
+        "longitude": "-111.977772",
+        "has_d_atis": true
+    },
+    "KBUR": {
+        "long_name": "Bob Hope-Burbank",
+        "class": "C",
+        "coverage_area": "Base Coverage",
+        "latitude": "34.200619",
+        "longitude": "-118.358497",
+        "has_d_atis": true
+    },
+    "KONT": {
+        "long_name": "Ontario Intl",
+        "class": "C",
+        "coverage_area": "Base Coverage",
+        "latitude": "34.056",
+        "longitude": "-117.601194",
+        "has_d_atis": true
+    },
+    "KPSP": {
+        "long_name": "Palm Springs Intl",
+        "class": "C",
+        "coverage_area": "Base Coverage",
+        "latitude": "33.829666",
+        "longitude": "-116.506694",
+        "has_d_atis": false
+    },
+    "KRIV": {
+        "long_name": "March ARB",
+        "class": "C",
+        "coverage_area": "Base Coverage",
+        "latitude": "33.880718",
+        "longitude": "-117.259441",
+        "has_d_atis": false
+    },
+    "KSBA": {
+        "long_name": "Santa Barbara Mun",
+        "class": "C",
+        "coverage_area": "Base Coverage",
+        "latitude": "34.426211",
+        "longitude": "-119.840372",
+        "has_d_atis": false
+    },
+    "KSNA": {
+        "long_name": "John Wayne-Orange Co",
+        "class": "C",
+        "coverage_area": "Base Coverage",
+        "latitude": "33.675659",
+        "longitude": "-117.868222",
+        "has_d_atis": true
+    },
+    "KABQ": {
+        "long_name": "Albuquerque Intl Sunport",
+        "class": "C",
+        "coverage_area": "Western US Expansion",
+        "latitude": "35.040222",
+        "longitude": "-106.609194",
+        "has_d_atis": true
+    },
+    "KAMA": {
+        "long_name": "Amarillo Intl",
+        "class": "C",
+        "coverage_area": "Western US Expansion",
+        "latitude": "35.219369",
+        "longitude": "-101.70593",
+        "has_d_atis": false
+    },
+    "KBIL": {
+        "long_name": "Billings Logan Intl",
+        "class": "C",
+        "coverage_area": "Western US Expansion",
+        "latitude": "45.807664",
+        "longitude": "-108.542861",
+        "has_d_atis": false
+    },
+    "KBOI": {
+        "long_name": "Boise Air Terminal/Gowen",
+        "class": "C",
+        "coverage_area": "Western US Expansion",
+        "latitude": "43.564444",
+        "longitude": "-116.222778",
+        "has_d_atis": true
+    },
+    "KCOS": {
+        "long_name": "City Of Colorado Springs Mun",
+        "class": "C",
+        "coverage_area": "Western US Expansion",
+        "latitude": "38.805806",
+        "longitude": "-104.70025",
+        "has_d_atis": false
+    },
+    "KELP": {
+        "long_name": "El Paso Intl",
+        "class": "C",
+        "coverage_area": "Western US Expansion",
+        "latitude": "31.806667",
+        "longitude": "-106.377806",
+        "has_d_atis": true
+    },
+    "KFAT": {
+        "long_name": "Fresno Yosemite Intl",
+        "class": "C",
+        "coverage_area": "Western US Expansion",
+        "latitude": "36.776194",
+        "longitude": "-119.718139",
+        "has_d_atis": false
+    },
+    "KGEG": {
+        "long_name": "Spokane Intl",
+        "class": "C",
+        "coverage_area": "Western US Expansion",
+        "latitude": "47.619861",
+        "longitude": "-117.533834",
+        "has_d_atis": false
+    },
+    "KMRY": {
+        "long_name": "Monterey Regional",
+        "class": "C",
+        "coverage_area": "Western US Expansion",
+        "latitude": "36.586984",
+        "longitude": "-121.842947",
+        "has_d_atis": false
+    },
+    "KOAK": {
+        "long_name": "Metro Oakland Intl",
+        "class": "C",
+        "coverage_area": "Western US Expansion",
+        "latitude": "37.721292",
+        "longitude": "-122.220716",
+        "has_d_atis": true
+    },
+    "KPDX": {
+        "long_name": "Portland Intl",
+        "class": "C",
+        "coverage_area": "Western US Expansion",
+        "latitude": "45.588722",
+        "longitude": "-122.5975",
+        "has_d_atis": true
+    },
+    "KRNO": {
+        "long_name": "Reno/Tahoe Intl",
+        "class": "C",
+        "coverage_area": "Western US Expansion",
+        "latitude": "39.498575",
+        "longitude": "-119.768064",
+        "has_d_atis": true
+    },
+    "KSJC": {
+        "long_name": "Mineta San Jose Intl",
+        "class": "C",
+        "coverage_area": "Western US Expansion",
+        "latitude": "37.362625",
+        "longitude": "-121.92903",
+        "has_d_atis": true
+    },
+    "KSMF": {
+        "long_name": "Sacramento Intl",
+        "class": "C",
+        "coverage_area": "Western US Expansion",
+        "latitude": "38.695422",
+        "longitude": "-121.590767",
+        "has_d_atis": true
+    },
+    "KTUS": {
+        "long_name": "Tucson Intl",
+        "class": "C",
+        "coverage_area": "Western US Expansion",
+        "latitude": "32.116083",
+        "longitude": "-110.941028",
+        "has_d_atis": false
+    },
+    "KBFL": {
+        "long_name": "Meadows",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "35.433597",
+        "longitude": "-119.056769",
+        "has_d_atis": false
+    },
+    "KCMA": {
+        "long_name": "Camarillo",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "34.213756",
+        "longitude": "-119.094328",
+        "has_d_atis": false
+    },
+    "KCNO": {
+        "long_name": "Chino",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "33.974695",
+        "longitude": "-117.636611",
+        "has_d_atis": false
+    },
+    "KCRQ": {
+        "long_name": "McClellan-Palomar",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "33.12825",
+        "longitude": "-117.280083",
+        "has_d_atis": false
+    },
+    "KEMT": {
+        "long_name": "El Monte",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "34.086008",
+        "longitude": "-118.034845",
+        "has_d_atis": false
+    },
+    "KFUL": {
+        "long_name": "Fullerton Mun",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "33.872014",
+        "longitude": "-117.979783",
+        "has_d_atis": false
+    },
+    "KGCN": {
+        "long_name": "Grand Canyon Natl Park",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "35.952353",
+        "longitude": "-112.146964",
+        "has_d_atis": false
+    },
+    "KHHR": {
+        "long_name": "Northrop/Hawthorne Mun",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "33.922833",
+        "longitude": "-118.335194",
+        "has_d_atis": false
+    },
+    "KHND": {
+        "long_name": "Henderson",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "35.976364",
+        "longitude": "-115.132772",
+        "has_d_atis": false
+    },
+    "KIFP": {
+        "long_name": "Laughlin/Bullhead Intl",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "35.157389",
+        "longitude": "-114.559528",
+        "has_d_atis": false
+    },
+    "KINS": {
+        "long_name": "Creech AFB",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "36.586628",
+        "longitude": "-115.672519",
+        "has_d_atis": false
+    },
+    "KLGB": {
+        "long_name": "Long Beach",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "33.817722",
+        "longitude": "-118.151611",
+        "has_d_atis": false
+    },
+    "KMHV": {
+        "long_name": "Mojave",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "35.059364",
+        "longitude": "-118.151856",
+        "has_d_atis": false
+    },
+    "KMYF": {
+        "long_name": "Montgomery",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "32.815733",
+        "longitude": "-117.139567",
+        "has_d_atis": false
+    },
+    "KOXR": {
+        "long_name": "Oxnard",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "34.200811",
+        "longitude": "-119.207219",
+        "has_d_atis": false
+    },
+    "KPOC": {
+        "long_name": "Brackett Field",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "34.091647",
+        "longitude": "-117.78178",
+        "has_d_atis": false
+    },
+    "KRAL": {
+        "long_name": "Riverside Mun",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "33.951875",
+        "longitude": "-117.445103",
+        "has_d_atis": false
+    },
+    "KRNM": {
+        "long_name": "Ramona",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "33.038905",
+        "longitude": "-116.913639",
+        "has_d_atis": false
+    },
+    "KSBD": {
+        "long_name": "San Bernardino Intl",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "34.095353",
+        "longitude": "-117.234875",
+        "has_d_atis": false
+    },
+    "KSBP": {
+        "long_name": "San Luis Co Regl",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "35.236825",
+        "longitude": "-120.641869",
+        "has_d_atis": false
+    },
+    "KSDM": {
+        "long_name": "Brown Mun",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "32.572306",
+        "longitude": "-116.98025",
+        "has_d_atis": false
+    },
+    "KSEE": {
+        "long_name": "Gillespie",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "32.826231",
+        "longitude": "-116.97245",
+        "has_d_atis": false
+    },
+    "KSMO": {
+        "long_name": "Santa Monica Mun",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "34.015816",
+        "longitude": "-118.4513",
+        "has_d_atis": false
+    },
+    "KSMX": {
+        "long_name": "Santa Maria Pub/Capt Hancock",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "34.898917",
+        "longitude": "-120.457444",
+        "has_d_atis": false
+    },
+    "KTOA": {
+        "long_name": "Zamperini",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "33.803392",
+        "longitude": "-118.339611",
+        "has_d_atis": false
+    },
+    "KVCV": {
+        "long_name": "Socal Logistics",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "34.595522",
+        "longitude": "-117.382658",
+        "has_d_atis": false
+    },
+    "KVGT": {
+        "long_name": "North Las Vegas",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "36.211667",
+        "longitude": "-115.19575",
+        "has_d_atis": false
+    },
+    "KVNY": {
+        "long_name": "Van Nuys",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "34.209811",
+        "longitude": "-118.489972",
+        "has_d_atis": true
+    },
+    "KWHP": {
+        "long_name": "Whiteman",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "34.259325",
+        "longitude": "-118.413433",
+        "has_d_atis": false
+    },
+    "KWJF": {
+        "long_name": "Gen Fox",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "34.740955",
+        "longitude": "-118.218936",
+        "has_d_atis": false
+    },
+    "KNYL": {
+        "long_name": "Yuma MCAS/Yuma Intl",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "32.656583",
+        "longitude": "-114.605972",
+        "has_d_atis": false
+    },
+    "KTNX": {
+        "long_name": "Tonopah Test Range",
+        "class": "D",
+        "coverage_area": "Base Coverage",
+        "latitude": "37.15",
+        "longitude": "-116.7807541",
+        "has_d_atis": false
+    },
+    "KAPA": {
+        "long_name": "Centennial",
+        "class": "D",
+        "coverage_area": "Western US Expansion",
+        "latitude": "39.570128",
+        "longitude": "-104.849294",
+        "has_d_atis": false
+    },
+    "KASE": {
+        "long_name": "Aspen-Pitkin Co",
+        "class": "D",
+        "coverage_area": "Western US Expansion",
+        "latitude": "39.223167",
+        "longitude": "-106.868861",
+        "has_d_atis": false
+    },
+    "KBFI": {
+        "long_name": "Boeing Field/King Co Intl",
+        "class": "D",
+        "coverage_area": "Western US Expansion",
+        "latitude": "47.529989",
+        "longitude": "-122.301955",
+        "has_d_atis": false
+    },
+    "KCPR": {
+        "long_name": "Natrona Co Intl",
+        "class": "D",
+        "coverage_area": "Western US Expansion",
+        "latitude": "42.907972",
+        "longitude": "-106.464403",
+        "has_d_atis": false
+    },
+    "KEGE": {
+        "long_name": "Eagle Co Regl",
+        "class": "D",
+        "coverage_area": "Western US Expansion",
+        "latitude": "39.642569",
+        "longitude": "-106.917708",
+        "has_d_atis": false
+    },
+    "KEUG": {
+        "long_name": "Mahlon Sweet",
+        "class": "D",
+        "coverage_area": "Western US Expansion",
+        "latitude": "44.12325",
+        "longitude": "-123.218667",
+        "has_d_atis": false
+    },
+    "KFLG": {
+        "long_name": "Flagstaff Pulliam",
+        "class": "D",
+        "coverage_area": "Western US Expansion",
+        "latitude": "35.138455",
+        "longitude": "-111.671219",
+        "has_d_atis": false
+    },
+    "KFMN": {
+        "long_name": "Four Corners Regl",
+        "class": "D",
+        "coverage_area": "Western US Expansion",
+        "latitude": "36.74125",
+        "longitude": "-108.229944",
+        "has_d_atis": false
+    },
+    "KGJT": {
+        "long_name": "Grand Junction Regional",
+        "class": "D",
+        "coverage_area": "Western US Expansion",
+        "latitude": "39.122414",
+        "longitude": "-108.526736",
+        "has_d_atis": false
+    },
+    "KHLN": {
+        "long_name": "Helena Regl",
+        "class": "D",
+        "coverage_area": "Western US Expansion",
+        "latitude": "46.606819",
+        "longitude": "-111.98275",
+        "has_d_atis": false
+    },
+    "KJAC": {
+        "long_name": "Jackson Hole",
+        "class": "D",
+        "coverage_area": "Western US Expansion",
+        "latitude": "43.607325",
+        "longitude": "-110.737739",
+        "has_d_atis": false
+    },
+    "KMFR": {
+        "long_name": "Rogue Valley Intl-Medford",
+        "class": "D",
+        "coverage_area": "Western US Expansion",
+        "latitude": "42.374228",
+        "longitude": "-122.873497",
+        "has_d_atis": false
+    },
+    "KMSO": {
+        "long_name": "Missoula Intl",
+        "class": "D",
+        "coverage_area": "Western US Expansion",
+        "latitude": "46.916306",
+        "longitude": "-114.090556",
+        "has_d_atis": false
+    },
+    "KOLM": {
+        "long_name": "Olympia",
+        "class": "D",
+        "coverage_area": "Western US Expansion",
+        "latitude": "46.9705",
+        "longitude": "-122.902208",
+        "has_d_atis": false
+    },
+    "KOTH": {
+        "long_name": "North Bend Mun",
+        "class": "D",
+        "coverage_area": "Western US Expansion",
+        "latitude": "43.417139",
+        "longitude": "-124.246028",
+        "has_d_atis": false
+    },
+    "KPRC": {
+        "long_name": "Love Field/Prescott",
+        "class": "D",
+        "coverage_area": "Western US Expansion",
+        "latitude": "34.654472",
+        "longitude": "-112.419583",
+        "has_d_atis": false
+    },
+    "KPSC": {
+        "long_name": "Tri-Cities",
+        "class": "D",
+        "coverage_area": "Western US Expansion",
+        "latitude": "46.264692",
+        "longitude": "-119.119039",
+        "has_d_atis": false
+    },
+    "KRDD": {
+        "long_name": "Redding Mun",
+        "class": "D",
+        "coverage_area": "Western US Expansion",
+        "latitude": "40.508983",
+        "longitude": "-122.293403",
+        "has_d_atis": false
+    },
+    "KSAC": {
+        "long_name": "Sacramento Executive",
+        "class": "D",
+        "coverage_area": "Western US Expansion",
+        "latitude": "38.512528",
+        "longitude": "-121.493472",
+        "has_d_atis": false
+    },
+    "KSUN": {
+        "long_name": "Friedman Meml",
+        "class": "D",
+        "coverage_area": "Western US Expansion",
+        "latitude": "43.504056",
+        "longitude": "-114.295833",
+        "has_d_atis": false
+    },
+    "KYKM": {
+        "long_name": "Yakima Air Term/Mcallister",
+        "class": "D",
+        "coverage_area": "Western US Expansion",
+        "latitude": "46.568169",
+        "longitude": "-120.544058",
+        "has_d_atis": false
+    },
+    "KGPI": {
+        "long_name": "Glacier Park Intl",
+        "class": "D",
+        "coverage_area": "Western US Expansion",
+        "latitude": "48.311417",
+        "longitude": "-114.255083",
+        "has_d_atis": false
+    }
+}
